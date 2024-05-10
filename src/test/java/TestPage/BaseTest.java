@@ -24,10 +24,10 @@ public class BaseTest {
     }
 
 
-    /*@AfterMethod
+    @AfterMethod
     public void closeDriver() {
         driver.quit();
-    }*/
+    }
 
 
 }
